@@ -1,5 +1,3 @@
-setwd("~/sotsuron")
-
 library(sf)
 library(tidyverse)
 library(readxl)
